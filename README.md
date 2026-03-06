@@ -7,7 +7,7 @@
 
  
 
-## Lab Description
+## Program Description
 
 **Create a Taco Stand Inventory Management Program!** MiraCosta students want to start their own restaurant and were able to get permission to set up a pop-up taco stand on campus. One CS111 student started the program, but was struggling with how to make the program more flexible in making decisions so they passed it on to you!
 
