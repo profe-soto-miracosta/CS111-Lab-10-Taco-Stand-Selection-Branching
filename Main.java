@@ -1,8 +1,7 @@
-// PARTNER NAME:
-// PARTNER NAME:
-// CS111 SECTION #:
-// DATE:
-
+/**
+ * Your project description here.
+ * @author Your name here
+ */
 public class Main
 {
 
