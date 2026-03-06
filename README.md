@@ -1,14 +1,15 @@
 # Lab 10 - TacoStand + Selection/Branching
 
-# Create a Taco Stand Inventory Management Program!
 
-_Learning Objective: demonstrate an understanding of decision making through branching. Be able to read existing code and upgrade it with conditional statements._
+## Learning Objective
+- Demonstrate an understanding of decision making through branching.
+- Read existing code and upgrade it with conditional statements._
 
  
 
-# Lab Prompt:
+## Lab Description
 
-MiraCosta students want to start their own restaurant and were able to get permission to set up a pop-up taco stand on campus. One CS111 student started the program, but was struggling with how to make the program more flexible in making decisions so they passed it on to you!
+**Create a Taco Stand Inventory Management Program!** MiraCosta students want to start their own restaurant and were able to get permission to set up a pop-up taco stand on campus. One CS111 student started the program, but was struggling with how to make the program more flexible in making decisions so they passed it on to you!
 
 They set up the proper skeleton of the program, but left `//TODO`'s for where to upgrade the existing code with branching.  Your goals are to:
 
@@ -89,11 +90,9 @@ Errors described in the methods should react appropriately, such as ordering bey
     ----------------------------------------
 
 
-# Lab Instructions:
+## Specifications
 
-Complete each step together as a class, we'll be checking in several times within the lab! Make sure you watch the clock.
-
-# Step 0: What do we have?
+### Step 0: What do we have?
 
 - Do an inventory on what you're given in lab
 - Compile/run code:
@@ -101,26 +100,26 @@ Complete each step together as a class, we'll be checking in several times withi
   - Does it run and crash? If so, what line is causing the crash?
   - Does it run and give the desired output? What is the desired output?
 
-# Step 1: Constants
+### Step 1: Constants
 
 - Read through `TacoStand` and identify literal values that would make good constants
 - Upgrade your code so it uses those constants!
 
-# Step 2: `TacoStand.orderSupplies`
+### Step 2: `TacoStand.orderSupplies`
 
 - Create a flowchart for this upgraded method, based on the documentation 
 - Determine how to test the upgraded code, what values would you use to show the branches?
 - **CHECK-IN** w/ group near you, compare flowcharts and test ideas. What branching statement should be used?
 - Write the code and test it!
 
-# Step 3: `TacoStand.updateTotalFunds`
+### Step 3: `TacoStand.updateTotalFunds`
 
 - Create a flowchart for this upgraded method, based on the documentation
 - Determine how to test the upgraded code, what values would you use to show the branches?
 - **CHECK-IN**, compare flowcharts and test ideas. What branching statement should be used?
 - Write the code and test it!
 
-# Step 4: `TacoStand.areTacosAvailable`
+### Step 4: `TacoStand.areTacosAvailable`
 
 - Create a flowchart for this upgraded method, based on the documentation
 - Determine how to test the upgraded code, what values would you use to show the branches?
@@ -128,14 +127,14 @@ Complete each step together as a class, we'll be checking in several times withi
 - Write the code and test it!
 - _HINT: you'll need to add code somewhere in_ `Main` _class to test this one!_
 
-# Step 5: `Main.printConfirmation`
+### Step 5: `Main.printConfirmation`
 
 - Create a flowchart for this upgraded method, based on the documentation
 - Determine how to test the upgraded code, what values would you use to show the branches?
 - **CHECK-IN**, compare flowcharts and test ideas. What branching statement should be used?
 - Write the code and test it!
 
-**Hacker Challenge:**
+## Hacker Challenge
 
 Allow the user to place multiple orders (while staying within the boundaries of what we've covered in class so far), keeping the appropriate error checking!
 
